@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1065
+slug  : containment-audit
+seal  : 7d830b39d4aaf4556fc0d73698bc0615209d3e9a99a5bed9ce55ef3428ec5839
+prev  : d9e70ce9c39bd96f2e54b4c18cc7f8ee6a98e31ac2431f885a9928f100de979f
+link  : ee180f42b61cbad43d2b70532c251c8a9699c77008df93e3a56352360268ed8a
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
